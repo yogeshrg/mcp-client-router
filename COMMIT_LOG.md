@@ -125,3 +125,4 @@
 ## 2020-07-06 23:02:10 - feat(security): implement security module
 ## 2020-08-09 23:51:50 - feat(monitor): implement monitor feature (2/20)
 ## 2020-08-16 12:46:04 - feat(test): implement test module (6/20)
+## 2020-09-05 19:43:26 - feat(infra): create infra handler (10/20)
