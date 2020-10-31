@@ -367,3 +367,4 @@
 ## 2020-09-05 20:08:09 - feat(metric): add metric endpoint (19/20)
 ## 2020-09-20 20:50:23 - feat(config): create config handler (11/20)
 ## 2020-10-13 20:48:06 - feat(worker): create worker handler
+## 2020-10-31 20:27:42 - feat(test): implement test feature (16/20)
