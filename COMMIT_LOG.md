@@ -371,3 +371,4 @@
 ## 2020-12-05 14:35:40 - feat(config): create config handler (7/20)
 ## 2021-01-09 16:12:37 - feat(monitor): implement monitor module (6/20)
 ## 2021-03-14 16:47:06 - feat(log): create log handler (3/20)
+## 2021-04-24 13:24:47 - feat(ui): implement ui feature (5/20)
