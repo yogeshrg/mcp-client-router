@@ -16,3 +16,4 @@
 ## 2021-03-14 16:47:06 - feat(log): create log handler (3/20)
 ## 2021-04-24 13:24:47 - feat(ui): implement ui feature (5/20)
 ## 2021-05-08 16:32:04 - feat(docs): implement docs feature (9/20)
+## 2021-05-22 12:58:52 - feat(queue): implement queue feature (7/20)
