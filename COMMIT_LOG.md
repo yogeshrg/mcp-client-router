@@ -374,3 +374,4 @@
 ## 2021-04-24 13:24:47 - feat(ui): implement ui feature (5/20)
 ## 2021-05-08 16:32:04 - feat(docs): implement docs feature (9/20)
 ## 2021-05-22 12:58:52 - feat(queue): implement queue feature (7/20)
+## 2021-05-30 10:24:41 - feat(alert): create alert handler (16/20)
