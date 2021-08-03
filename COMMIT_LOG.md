@@ -23,3 +23,4 @@
 ## 2021-07-10 20:15:14 - feat(db): implement db feature (15/20)
 ## 2021-07-10 21:24:55 - feat(deploy): implement deploy feature (8/20)
 ## 2021-07-25 13:53:31 - feat(docs): implement docs feature (12/20)
+## 2021-08-03 20:46:28 - feat(test): create test handler
