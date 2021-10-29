@@ -25,3 +25,4 @@
 ## 2021-07-25 13:53:31 - feat(docs): implement docs feature (12/20)
 ## 2021-08-03 20:46:28 - feat(test): create test handler
 ## 2021-10-09 20:49:35 - feat(core): implement core feature (18/20)
+## 2021-10-29 11:25:08 - feat(db): add db support
