@@ -266,3 +266,4 @@
 ## 2021-10-29 11:25:08 - feat(db): add db support
 ## 2021-11-27 10:28:14 - feat(log): implement log module (20/20)
 ## 2021-12-18 20:49:37 - feat(deploy): implement deploy module (15/20)
+## 2022-01-28 22:40:04 - feat(config): create config handler
