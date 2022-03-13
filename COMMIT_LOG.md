@@ -149,3 +149,4 @@
 ## 2021-12-18 20:49:37 - feat(deploy): implement deploy module (15/20)
 ## 2022-01-28 22:40:04 - feat(config): create config handler
 ## 2022-02-12 17:12:09 - feat(queue): implement queue feature (13/20)
+## 2022-03-13 20:59:06 - feat(ui): add ui support (2/20)
