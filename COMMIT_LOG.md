@@ -388,3 +388,4 @@
 ## 2022-01-28 22:40:04 - feat(config): create config handler
 ## 2022-02-12 17:12:09 - feat(queue): implement queue feature (13/20)
 ## 2022-03-13 20:59:06 - feat(ui): add ui support (2/20)
+## 2022-03-19 19:31:11 - feat(infra): implement infra module (12/20)
