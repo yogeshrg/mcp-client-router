@@ -152,3 +152,4 @@
 ## 2022-03-13 20:59:06 - feat(ui): add ui support (2/20)
 ## 2022-03-19 19:31:11 - feat(infra): implement infra module (12/20)
 ## 2022-03-25 09:39:30 - feat(alert): implement alert feature
+## 2022-03-26 19:43:22 - feat(alert): add alert endpoint (4/20)
