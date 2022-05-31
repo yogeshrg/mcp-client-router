@@ -274,3 +274,4 @@
 ## 2022-03-26 19:43:22 - feat(alert): add alert endpoint (4/20)
 ## 2022-04-16 09:07:35 - feat(infra): implement infra module (12/20)
 ## 2022-05-28 14:10:42 - feat(config): implement config module (19/20)
+## 2022-05-31 17:33:19 - feat(data): create data handler
