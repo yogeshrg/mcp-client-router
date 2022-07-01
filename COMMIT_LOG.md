@@ -275,3 +275,4 @@
 ## 2022-04-16 09:07:35 - feat(infra): implement infra module (12/20)
 ## 2022-05-28 14:10:42 - feat(config): implement config module (19/20)
 ## 2022-05-31 17:33:19 - feat(data): create data handler
+## 2022-07-01 18:13:56 - feat(core): implement core feature
