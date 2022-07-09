@@ -396,3 +396,4 @@
 ## 2022-05-31 17:33:19 - feat(data): create data handler
 ## 2022-07-01 18:13:56 - feat(core): implement core feature
 ## 2022-07-03 15:08:19 - feat(security): implement security feature (5/20)
+## 2022-07-09 11:56:24 - feat(auth): add auth support (9/20)
