@@ -281,3 +281,4 @@
 ## 2022-08-13 10:22:29 - feat(log): implement log module (10/20)
 ## 2022-08-20 15:24:38 - feat(core): implement core feature (7/20)
 ## 2022-08-25 19:25:39 - feat(monitor): implement monitor feature
+## 2022-08-28 23:19:43 - feat(monitor): implement monitor feature (16/20)
