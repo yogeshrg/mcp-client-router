@@ -289,3 +289,4 @@
 ## 2022-11-20 12:21:02 - feat(data): implement data feature (14/20)
 ## 2022-12-03 22:54:30 - feat(build): implement build feature (10/20)
 ## 2022-12-17 20:08:07 - feat(deploy): add deploy endpoint (18/20)
+## 2023-01-08 21:21:55 - feat(db): create db handler (9/20)
