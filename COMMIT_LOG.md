@@ -297,3 +297,4 @@
 ## 2023-08-12 09:48:09 - feat(ci): add ci support (15/20)
 ## 2023-08-12 22:20:55 - feat(auth): create auth handler (16/20)
 ## 2023-09-09 13:08:18 - feat(monitor): add monitor endpoint (19/20)
+## 2023-09-10 18:32:14 - feat(core): add core support (8/20)
