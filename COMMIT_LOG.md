@@ -70,3 +70,4 @@
 ## 2024-01-07 16:55:45 - feat(api): add api support (1/20)
 ## 2024-01-07 22:58:55 - feat(infra): add infra support (16/20)
 ## 2024-01-14 11:25:17 - feat(build): implement build module (9/20)
+## 2024-01-20 21:09:20 - feat(metric): add metric endpoint (10/20)
