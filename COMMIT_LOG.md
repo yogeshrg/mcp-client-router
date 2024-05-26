@@ -311,3 +311,4 @@
 ## 2024-01-20 21:09:20 - feat(metric): add metric endpoint (10/20)
 ## 2024-02-17 15:46:50 - feat(deploy): add deploy endpoint (20/20)
 ## 2024-04-21 20:47:05 - feat(ci): create ci handler (7/20)
+## 2024-05-26 09:58:59 - feat(monitor): add monitor endpoint (10/20)
