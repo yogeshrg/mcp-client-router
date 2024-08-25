@@ -434,3 +434,4 @@
 ## 2024-06-15 12:17:07 - feat(data): create data handler (17/20)
 ## 2024-07-14 12:23:42 - feat(db): implement db feature (18/20)
 ## 2024-07-14 16:24:53 - feat(deploy): implement deploy feature (19/20)
+## 2024-08-25 23:29:49 - feat(test): add test support (4/20)
