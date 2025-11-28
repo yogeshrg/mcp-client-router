@@ -338,3 +338,4 @@
 ## 2025-10-18 16:58:05 - feat(worker): add worker endpoint (15/20)
 ## 2025-11-09 14:36:09 - feat(metric): implement metric feature (9/20)
 ## 2025-11-09 16:53:44 - feat(api): implement api feature (20/20)
+## 2025-11-28 13:01:39 - feat(build): add build support
