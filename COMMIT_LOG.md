@@ -101,3 +101,4 @@
 ## 2025-11-09 14:36:09 - feat(metric): implement metric feature (9/20)
 ## 2025-11-09 16:53:44 - feat(api): implement api feature (20/20)
 ## 2025-11-28 13:01:39 - feat(build): add build support
+## 2025-12-21 10:52:06 - feat(core): add core support (3/20)
