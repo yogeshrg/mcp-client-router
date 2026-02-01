@@ -222,3 +222,4 @@
 ## 2025-11-28 13:01:39 - feat(build): add build support
 ## 2025-12-21 10:52:06 - feat(core): add core support (3/20)
 ## 2026-01-08 20:10:27 - feat(infra): add infra endpoint
+## 2026-02-01 10:56:07 - feat(data): create data handler (1/20)
