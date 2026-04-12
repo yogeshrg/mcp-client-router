@@ -226,3 +226,4 @@
 ## 2026-02-15 17:11:22 - feat(api): create api handler (9/20)
 ## 2026-03-07 20:25:47 - feat(ui): create ui handler (3/20)
 ## 2026-03-22 17:13:53 - feat(config): add config endpoint (12/20)
+## 2026-04-12 12:11:38 - feat(ui): add ui support (13/20)
